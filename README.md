@@ -1,6 +1,6 @@
 # General Store Mobile App Automation Project.
 ## Automation's project recording
-![studio64_vEJJ8kmp0n](https://github.com/user-attachments/assets/1a06e68e-41e0-4e24-a175-748318cb76cf)
+https://github.com/user-attachments/assets/238b3d2f-8d5c-4545-90b4-a568c1705a68
 
 ## Introduction
 The goal of this project is to automate the verification of the "Add to Cart" functionality in a mobile application for Android.
